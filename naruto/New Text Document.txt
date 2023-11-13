@@ -8,3 +8,5 @@ Madara
 Sasuke
 Naruto
 onaki
+Sakura
+Hinata
